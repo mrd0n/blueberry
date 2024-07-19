@@ -9,6 +9,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 Don was here
 
-Don was here again.... :)![[IMG_4508.jpeg]]
+![[content/images/IMG_4508.jpeg]]
 
 Picture above
