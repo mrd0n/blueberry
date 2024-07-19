@@ -10,6 +10,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 Don was here
 
-![[content/images/IMG_4508.jpeg]]
+![[images/IMG_4508.jpeg]]
 
 Picture above
