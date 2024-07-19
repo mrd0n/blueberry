@@ -2,6 +2,7 @@
 title: Welcome to Quartz - DON WAS HERE
 tags:
   - Camping
+  - Testing
 ---
 
 This is a blank Quartz installation.
