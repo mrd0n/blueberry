@@ -21,7 +21,7 @@ site_number: 4a
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-Don was here
+Don was here.   Haha
 
 ![[images/IMG_4508.jpeg]]
 
