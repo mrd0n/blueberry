@@ -18,7 +18,8 @@ draft: false
 site_number: 4a
 ---
 
-This is a blank Quartz installation.
+Getting closer!
+
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 Don was here.   Haha
