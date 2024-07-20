@@ -4,6 +4,17 @@ tags:
   - Camping
   - Testing
   - RVLife
+date: [[2024-07-19]]
+campground_name: "[[blah]]"
+location: "[[revelstoke]]"
+nights: "[[3]]"
+test: "[[Quick]]"
+water: true
+electricity: true
+sewer: true
+boon_docking: false
+draft: false
+site_number:
 ---
 
 This is a blank Quartz installation.
