@@ -3,6 +3,7 @@ title: Welcome to Quartz - DON WAS HERE
 tags:
   - Camping
   - Testing
+  - RVLife
 ---
 
 This is a blank Quartz installation.
