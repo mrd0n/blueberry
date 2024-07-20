@@ -4,7 +4,8 @@ tags:
   - Camping
   - Testing
   - RVLife
-date: [[2024-07-19]]
+date:
+  - - 2024-07-19
 campground_name: "[[blah]]"
 location: "[[revelstoke]]"
 nights: "[[3]]"
@@ -14,7 +15,7 @@ electricity: true
 sewer: true
 boon_docking: false
 draft: false
-site_number:
+site_number: 4a
 ---
 
 This is a blank Quartz installation.
