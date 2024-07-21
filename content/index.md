@@ -1,8 +1,6 @@
 ---
 title: Welcome to Blueberry Adventures
-tags:
-  - Camping
-  - RVLife
+tags: []
 ---
 ![[images/IMG_4508.jpeg]]
 
