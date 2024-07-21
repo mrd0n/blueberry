@@ -1,12 +1,9 @@
 ---
-date: 2024-07-20
+date: 2024-07-21
 parent: "[[index]]"
-campground_name:
-  - - Williamson Lake Campground
-nights:
-  - - 1
-rating:
-  - - Okay
+campground_name: Mystic Forest RV Park
+nights: "5"
+rating: Okay
 water: true
 electricity: true
 sewer: true
@@ -17,7 +14,7 @@ tags:
   - RVLife
   - Camping
 ---
-# [[02 Revelstoke]]
+# [[08 Klamath, CA]]
 
 ## Activities:
 
