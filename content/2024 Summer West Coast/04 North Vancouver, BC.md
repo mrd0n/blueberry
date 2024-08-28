@@ -17,7 +17,8 @@ tags:
 # [[04 North Vancouver, BC]]
 
 ## Activities:
-
+ate a pizza
 ## Photo:
 
 ## Phoebe's thoughts:
+licked a pizza
