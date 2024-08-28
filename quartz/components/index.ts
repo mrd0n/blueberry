@@ -27,6 +27,7 @@ export {
   TagContent,
   FolderContent,
   Darkmode,
+  GMapsComponent,
   Head,
   PageTitle,
   ContentMeta,
