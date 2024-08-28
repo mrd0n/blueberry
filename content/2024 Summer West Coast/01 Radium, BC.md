@@ -17,7 +17,7 @@ tags:
 # [[01 Radium, BC]]
 
 ## Activities:
-Blah
+Blah.
 
 ## Photo:
 
