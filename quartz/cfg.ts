@@ -77,8 +77,8 @@ export interface FullPageLayout {
   header: QuartzComponent[]
   beforeBody: QuartzComponent[GMapsComponent]
   pageBody: QuartzComponent
-  afterBody: QuartzComponent[]
-  left: QuartzComponent[]
+  afterBody: QuartzComponent[GMapsComponent]
+  left: QuartzComponent[GMapsComponent]
   right: QuartzComponent[]
   footer: QuartzComponent
 }
