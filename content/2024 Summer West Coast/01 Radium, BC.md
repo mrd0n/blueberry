@@ -17,7 +17,9 @@ tags:
 # [[01 Radium, BC]]
 
 ## Activities:
+Blah
 
 ## Photo:
 
 ## Phoebe's thoughts:
+Blah Blah

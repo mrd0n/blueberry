@@ -19,5 +19,6 @@ tags:
 ## Activities:
 
 ## Photo:
+![[IMG_4411.jpeg]]
 
 ## Phoebe's thoughts:
