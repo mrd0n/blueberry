@@ -75,10 +75,10 @@ export interface QuartzConfig {
 export interface FullPageLayout {
   head: QuartzComponent
   header: QuartzComponent[]
-  beforeBody: QuartzComponent[GMapsComponent]
+  beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
-  afterBody: QuartzComponent[GMapsComponent]
-  left: QuartzComponent[GMapsComponent]
+  afterBody: QuartzComponent[]
+  left: QuartzComponent[]
   right: QuartzComponent[]
   footer: QuartzComponent
 }

@@ -1,13 +1,17 @@
-// @ts-ignore: typescript doesn't know about our inline bundling system
-// so we need to silence the error
-import script from "./scripts/gmaps.inline"
- 
 export default (() => {
-  function GMapComponent() {
+  function GMapsComponent() {
     return <button id="btn">Click me</button>
   }
  
-  GMapComponent.afterDOMLoaded = script
-  return GMapComponent
+  GMapsComponent.beforeDOMLoaded = `
+  console.log("hello from before the page loads!")
+  `
+ 
+  GMapsComponent.afterDOMLoaded = `
+  document.getElementById('btn').onclick = () => {
+    alert('button clicked!')
+  }
+  `
+  return GMapsComponent
 }) satisfies QuartzComponentConstructor
 
