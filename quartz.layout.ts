@@ -21,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterBody: [
-    Component.GMapsComponent(),
+//    Component.GMapsComponent(),
   ],
   left: [
     Component.PageTitle(),
